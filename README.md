@@ -4,7 +4,9 @@
 本项目为陈晓冬教授团队设计的“基于SE方程组的快速OCT图像增强算法”的原代码。
 
 
-如果您要使用此代码，需引用此论文： Shiliang Lou, Xiaodong Chen, Jing Liu, Yu Shi, Hui Qu, Yi Wang, and Huaiyu Cai, “Fast OCT images enhancement method based on Sigmoid-Energy conservation equation,”  （投稿中......）
+如果您要使用此代码，需引用此论文： 
+Shiliang Lou, Xiaodong Chen, Jing Liu, Yu Shi, Hui Qu, Yi Wang, and Huaiyu Cai, “Fast OCT images enhancement method based on Sigmoid-Energy conservation equation,” Biomedical Optics Express, 12(3), - (2021).
+论文链接：https://doi.org/10.1364/BOE.417010
 
 
 天津大学光电成像与检测技术实验室I
